@@ -15,4 +15,12 @@ RQ: Is there a correlation between sentiment for Twitter data and vaccination ra
 
 Some of the figures generated to answer this questions are shown as example below. The full article can be requested by sending a message to the owner of the repository.
 
+### Example figures
+
+The first figure is to show the sentiment analysis over time. Two time periods stand out and are colorized to draw attention.
+
 ![Sentiment analysis over time for the United States](output/sentimentscoreStates.png)
+
+The second figure shows the number of tweets from a certain country.
+
+![Sentiment score within time period](output/Country_tweets.png)
